@@ -1,5 +1,5 @@
 # LGMVIP-WebDev
-TASK 1-
+# TASK 1-
 
 Website Name: Square
 
@@ -16,9 +16,9 @@ Tech: HTML5,CSS3,JAVASCRIPT,Bootstrap.
 Status:Completed
 
 
-TASK 2-
+# TASK 2-
 
-Website Name: HashCom
+Website Name: Square
 
 Demo: (Video Compressed to 10 MB For Uploading)
 
